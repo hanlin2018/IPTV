@@ -14,6 +14,8 @@ http://111.48.34.237/PLTV/88888888/224/3221230489/1.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5-FHD
 http://111.48.34.237/PLTV/88888888/224/3221230165/1.m3u8
 http://111.48.34.237/PLTV/88888888/224/3221230400/1.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5-4K
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+-FHD
 http://111.48.34.237/PLTV/88888888/224/3221230455/1.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6-FHD
@@ -45,6 +47,11 @@ http://111.48.34.237/PLTV/88888888/224/3221229868/1.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15-FHD
 http://111.48.34.237/PLTV/88888888/224/3221229861/1.m3u8
 http://111.48.34.237/PLTV/88888888/224/3221230495/1.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16-4K
+http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024083703.m3u8
+http://58.215.231.35/live3.ngaacdn.sc96655.com/live/CCTV-16-4K_8000.m3u8
+https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
+https://cntv.lat/tv/live.php?auth=231110&id=cctv164k
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17-FHD
 http://111.48.34.237/PLTV/88888888/224/3221229831/1.m3u8
 http://111.48.34.237/PLTV/88888888/224/3221230447/1.m3u8
@@ -224,9 +231,11 @@ http://111.48.34.237/PLTV/88888888/224/3221230067/1.m3u8
 http://111.48.34.237/PLTV/88888888/224/3221230069/1.m3u8
 http://111.48.34.237/PLTV/88888888/224/3221230054/1.m3u8
 http://111.48.34.237/PLTV/88888888/224/3221230031/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",咪咕视频-FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="数字",咪咕视频-FHD
 http://111.48.34.237/PLTV/88888888/224/3221230336/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",咪咕赛事-FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="数字",咪咕赛事-FHD
+http://111.48.34.237/PLTV/88888888/224/3221230499/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="数字",咪咕体育-4K
 http://111.48.34.237/PLTV/88888888/224/3221230499/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",央视频-FHD
 http://111.48.34.237/PLTV/88888888/224/3221230371/1.m3u8
@@ -258,6 +267,8 @@ http://111.48.34.237/PLTV/88888888/224/3221229871/1.m3u8
 http://111.48.34.237/PLTV/88888888/224/3221230487/1.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="地方",欢笑剧场4K-UHD
 http://111.48.34.237/PLTV/88888888/224/3221230500/1.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8
+http://58.215.231.35/live3.ngaacdn.sc96655.com/live/hxjc-4k_8000.m3u8
 #EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="地方",文物宝库-FHD
 http://111.48.34.237/PLTV/88888888/224/3221230547/1.m3u8
 #EXTINF:-1 tvg-id="6586" tvg-name="武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg" group-title="地方",武术世界-FHD
